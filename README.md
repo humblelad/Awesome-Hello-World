@@ -1,5 +1,5 @@
 # Basic-HTML-Page
-In this repo you will be getting a to know what it is like to see a very basic HTML page and all the tidbits involved in it.
+In this repo you will be getting  to know what it is like to see a very basic HTML page and all the tidbits involved in it.
 
 And furthermore, we will proceed with how a basic CSS code looks like.
 
